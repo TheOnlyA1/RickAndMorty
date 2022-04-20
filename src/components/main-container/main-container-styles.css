@@ -1,0 +1,32 @@
+.main-container{
+    height: 100%;
+    margin-top: 0 !important;
+    padding: 5% 7.5%;
+}
+
+.card-container{
+    height: 700px;
+    border-radius: 25px;
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+rgba(0, 0, 0, 0.12) 0px -12px 30px,
+rgba(0, 0, 0, 0.12) 0px 4px 6px,
+rgba(0, 0, 0, 0.17) 0px 12px 13px,
+rgba(0, 0, 0, 0.09) 0px -3px 5px !important; 
+}
+
+.card-content > *{
+    margin-bottom: 15px !important;
+}
+
+.character-title{
+    text-align: center;
+}
+
+.episodes-container{
+    height: 75px;
+    overflow-y: auto;
+}
+
+.card-text{
+    white-space: pre-line;
+}
